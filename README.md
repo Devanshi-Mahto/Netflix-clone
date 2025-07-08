@@ -38,6 +38,6 @@ Or run with Live Server in VS Code
 
 ---
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 -Inspired by Netflix India
 -Logo and video content from Netflix
